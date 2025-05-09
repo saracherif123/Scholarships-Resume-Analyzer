@@ -8,7 +8,7 @@ Easily assess how well your resume aligns with scholarship requirements. Upload 
 
 ## Live Demo
 
-[Click here to launch the Streamlit App](https://scholarships-resume-analyzer-k78jpyqbzzejyvavspbna6.streamlit.app)
+[Click here to launch the Streamlit App](https://scholarships-resume-analyzer.streamlit.app)
 
 ---
 
